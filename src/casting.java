@@ -12,7 +12,7 @@ public class casting {
                             a = a-2;
                         } else{
                             System.out.print(a + "*" + i + "="+i * a +"\t");
-                            a = ++a;
+                            ++a;
                         }
                     }
                 }else {
